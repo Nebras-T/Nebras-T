@@ -44,7 +44,7 @@
 <div align="center">
 
 <!-- Streak Stats — matches your dark pink widget -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FF79C6&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nebras-T&theme=radical&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FF79C6&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3)](https://git.io/streak-stats)
 
 <br/>
 
