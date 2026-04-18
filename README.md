@@ -11,7 +11,7 @@
  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
 ```
 
-### Hey there 👋 I'm **Nebras**
+### Hey there!!! I'm **Nebras**
 *Software Engineering Student - security enthousiast*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4FA3&center=true&vCenter=true&width=435&lines=Building+things+that+live+on+the+internet;One+commit+at+a+time...;Consistent+progress+%F0%9F%94%A5)](https://git.io/typing-svg)
